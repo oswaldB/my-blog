@@ -21,3 +21,7 @@ Avec l'apparition de bases de données performantes, la construction d'un site i
 Les informations voir toutes les informations sont stockés dans une base de données. Et la base de données peuple les données dans un template. 
 Cette époque est toujours d'actualité. Des sites fait avec Wordpress, Shopify, Magento ou autres sont des machines énormes qui ont dû relevés des défis de taille
 pour afficher des pages pleines de données à la volée. Les langages informatiques ont évolués précisement pour gagner en performance sur ce sujet.
+
+##Moment 3 : le retour du static
+L'obsession est à la vitesse. Plus un site charge vite et plus il réalise de vente. Plus il va vite et plus Google le met en avant pour se développer. L'obsession de la vitesse est donc de plus en plus nécessaire et surtout est source de revenus additionnels.
+L'ecommerce a engloutis des millions (voir des milliards) dans des investissement massifs pour des bases de données.
