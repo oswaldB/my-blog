@@ -2,8 +2,8 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by  Oswald Bernard',
+  subtitle: 'Thinking about strategy, digital and retail',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -23,11 +23,11 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Oswald Bernard',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Architect of the future of Retail.',
     contacts: {
-      email: '#',
+      email: 'oswald.bernard@gmail.com',
       telegram: '#',
       twitter: '#',
       github: '#',
