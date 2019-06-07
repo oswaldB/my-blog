@@ -25,3 +25,5 @@ pour afficher des pages pleines de données à la volée. Les langages informati
 ##Moment 3 : le retour du static
 L'obsession est à la vitesse. Plus un site charge vite et plus il réalise de vente. Plus il va vite et plus Google le met en avant pour se développer. L'obsession de la vitesse est donc de plus en plus nécessaire et surtout est source de revenus additionnels.
 L'ecommerce a engloutis des millions (voir des milliards) dans des investissement massifs pour des bases de données.
+
+Test d'une nouvelle fonctionnalité : le comit depuis l'éditeur :)
