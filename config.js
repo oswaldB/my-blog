@@ -1,31 +1,31 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by  Oswald Bernard',
-  subtitle: 'Thinking about strategy, digital and retail',
+  url: 'https://cupcakestartup.netlify.com',
+  title: 'Cupcake startup',
+  subtitle: 'Small, colorfoul and irresistible startups recepies',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  disqusShortname: 'cupcakestartups',
+  postsPerPage: 6,
+  googleAnalyticsId: 'UA-142035474-1',
   menu: [
     {
-      label: 'Articles',
+      label: 'Recipes',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'About cupcake startup',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'Contact',
       path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'Oswald Bernard',
+    name: 'cupcake startups',
     photo: '/photo.jpg',
-    bio: 'Architect of the future of Retail.',
+    bio: 'Small, colorfoul and irresistible startups recepies. A new way to earn monney on the side.',
     contacts: {
       email: 'oswald.bernard@gmail.com',
       telegram: '#',

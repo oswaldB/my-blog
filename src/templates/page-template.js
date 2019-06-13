@@ -23,7 +23,6 @@ const PageTemplate = ({ data }: Props) => {
     <Layout title={`${pageTitle} - ${siteTitle}`} description={metaDescription}>
       <Sidebar />
       <Page title={pageTitle}>
-        <p>Hello you !</p>
         <div dangerouslySetInnerHTML={{ __html: pageBody }} />
       </Page>
     </Layout>

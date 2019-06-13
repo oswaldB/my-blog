@@ -7,7 +7,7 @@ html {
 
 body {
   margin: 0;
-  font-family: $typographic-font-family;
+  font-family: $typographic-font-family-p;
   color: $typographic-base-font-color;
   line-height: $typographic-base-line-height;
   font-size: $typographic-base-font-size;
@@ -24,11 +24,12 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: $typographic-font-family;
+  font-family: $typographic-font-family-p;;
   font-weight: 600;
 }
 
 h1 {
+  font-family: $typographic-font-family;
   font-size: $typographic-base-font-size * 2.5;
   @include line-height(2);
   @include margin-top(4);
@@ -111,10 +112,12 @@ strong {
 ul {
   list-style: square;
   @include margin-bottom(1);
+  font-family: $typographic-font-family-p;
 
   & li {
     padding: 0 5px;
     margin-bottom: 10px;
+    font-family: $typographic-font-family-p;
   }
 
 }
@@ -122,6 +125,7 @@ ul {
 p {
   @include line-height(1);
   @include margin-bottom(1);
+  font-family: $typographic-font-family-p;
 }
 
 blockquote {
